@@ -1,6 +1,6 @@
 # buranjs
 
-<code>
+``
 	<script>
 		(function(wd,dc,tg,js,fn,el,sl){
 			wd[fn] = wd[fn] || function(){
@@ -18,4 +18,4 @@
 			pplink: "https://doroga.complex1.ru/privacy-policy.html",
 		});
 	</script>
-</code>
+``
